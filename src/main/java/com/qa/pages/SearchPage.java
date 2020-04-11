@@ -3,7 +3,7 @@ package com.qa.pages;
 public class SearchPage {
 	public void searchPage()
 	{
-		System.out.println("SearchPage");
+		System.out.println("This is SearchPage");
 	}
 
 }
